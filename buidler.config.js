@@ -16,7 +16,7 @@ module.exports = {
       accounts: [`0x${ROPSTEN_PRIVATE_KEY}`]
     },
     mainnet: {
-      url: `https://ropsten.infura.io/v3/${INFURA_PROJECT_ID}`,
+      url: `https://mainnet.infura.io/v3/${INFURA_PROJECT_ID}`,
       accounts: [`0x${MAINNET_PRIVATE_KEY}`]
     }
   }
